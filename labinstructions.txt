@@ -1,11 +1,7 @@
-pip install numpy pandas scipy \ 
-
-            matplotlib seaborn plotly \ 
-
-            scikit-learn statsmodels xgboost lightgbm \ 
-
-            jupyterlab notebook ipykernel \ 
-
-            openpyxl xlrd lasio \ 
-
-            dash streamlit 
+pip install --upgrade pip
+pip install numpy pandas scipy \
+            matplotlib seaborn plotly \
+            scikit-learn statsmodels xgboost lightgbm \
+            jupyterlab notebook ipykernel \
+            openpyxl xlrd lasio \
+            dash streamlit
