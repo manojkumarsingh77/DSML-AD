@@ -1,0 +1,11 @@
+pip install numpy pandas scipy \ 
+
+            matplotlib seaborn plotly \ 
+
+            scikit-learn statsmodels xgboost lightgbm \ 
+
+            jupyterlab notebook ipykernel \ 
+
+            openpyxl xlrd lasio \ 
+
+            dash streamlit 
