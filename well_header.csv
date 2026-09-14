@@ -1,0 +1,4 @@
+Well_ID,Rig_Name,Field,Operator,Spud_Date,Well_Type,Target_Depth_m,Bit_Diameter_in,Mud_Type
+WELL-D01,Rig-12,Badra Field,Al-Waha Drilling,2025-02-01,Deviated,3450,8.5,WBM
+WELL-D02,Rig-07,Badra Field,Al-Waha Drilling,2025-02-10,Vertical,2980,8.5,WBM
+WELL-D03,Rig-12,Sindbad North,Al-Waha Drilling,2025-02-18,Horizontal,4120,6.125,OBM
