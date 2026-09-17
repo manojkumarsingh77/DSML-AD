@@ -1,0 +1,221 @@
+segment_id,material,product_type,diameter_in,length_km,age_years,coating_type,soil_type,cathodic_protection_status,operating_pressure_psi,pressure_cycles_per_day,nominal_wall_thickness_mm,measured_wall_thickness_mm,corrosion_rate_mm_per_year,wall_loss_pct,repairs_last_5yr,inspection_gap_years,high_consequence_area,river_road_crossing,leak_incident_last_5yr
+SEG-0001,Carbon Steel,Natural Gas,4,5.26,40.8,FBE,Loam,Inadequate,984.0,9,7.9,4.69,0.082,40.7,2,5.3,Yes,No,1
+SEG-0002,CRA-Clad,Natural Gas,24,2.34,10.3,Polyethylene Tape,Clay,Adequate,787.0,3,6.4,6.46,0.01,0.0,1,6.2,No,No,0
+SEG-0003,HDPE,Natural Gas,6,10.16,7.7,None,Loam,Marginal,1189.0,9,6.4,6.38,0.015,0.3,0,3.8,No,No,0
+SEG-0004,CRA-Clad,Crude Oil,12,15.31,5.4,Asphalt Mastic,Rocky,Marginal,1174.0,7,6.4,6.47,0.01,0.0,0,1.5,No,Yes,0
+SEG-0005,CRA-Clad,Crude Oil,4,11.15,15.9,Polyethylene Tape,Clay,Inadequate,1016.0,9,7.9,7.91,0.01,0.0,1,5.2,No,No,0
+SEG-0006,Carbon Steel,Crude Oil,4,7.64,2.9,FBE,Marshland,Adequate,927.0,2,12.7,12.45,0.01,1.9,0,1.1,Yes,Yes,0
+SEG-0007,Carbon Steel,Produced Water,10,8.98,31.5,Coal Tar Enamel,Marshland,Marginal,917.0,3,12.7,9.79,0.082,22.9,0,7.1,No,No,0
+SEG-0008,HDPE,Crude Oil,10,4.97,26.3,Polyethylene Tape,Marshland,Adequate,1116.0,6,7.9,7.39,0.01,6.4,1,1.4,No,No,0
+SEG-0009,HDPE,Produced Water,8,1.6,8.8,Polyethylene Tape,Marshland,Adequate,648.0,5,12.7,12.4,0.01,2.4,0,5.7,No,No,0
+SEG-0010,Carbon Steel,Natural Gas,12,10.23,4.7,FBE,Loam,Inadequate,868.0,6,7.9,7.53,0.06,4.6,1,7.7,No,No,0
+SEG-0011,Carbon Steel,Natural Gas,8,6.89,17.8,Polyethylene Tape,Rocky,Adequate,1090.0,5,6.4,5.92,0.01,7.5,0,4.9,No,No,0
+SEG-0012,Carbon Steel,Natural Gas,12,13.24,25.7,Polyethylene Tape,Loam,Adequate,1088.0,5,9.5,9.37,0.01,1.4,0,1.8,No,No,0
+SEG-0013,Carbon Steel,Crude Oil,4,14.63,45.6,Asphalt Mastic,Loam,Adequate,1307.0,5,12.7,12.08,0.01,4.9,0,6.6,No,No,0
+SEG-0014,Carbon Steel,Natural Gas,24,9.38,55.0,Polyethylene Tape,Rocky,Marginal,974.0,10,11.1,8.43,0.04,24.0,1,2.5,Yes,No,0
+SEG-0015,Carbon Steel,Produced Water,8,5.83,2.8,Coal Tar Enamel,Marshland,Marginal,1177.0,3,11.1,11.18,0.102,0.0,1,1.3,No,No,0
+SEG-0016,HDPE,Crude Oil,6,17.12,3.1,FBE,Rocky,Inadequate,676.0,7,6.4,6.51,0.011,0.0,3,2.5,No,No,1
+SEG-0017,Carbon Steel,Crude Oil,16,9.35,8.6,Coal Tar Enamel,Rocky,Adequate,1177.0,8,9.5,9.02,0.021,5.0,2,3.2,Yes,No,0
+SEG-0018,Carbon Steel,Produced Water,24,4.27,25.5,Asphalt Mastic,Rocky,Marginal,870.0,0,12.7,11.03,0.061,13.1,0,6.4,Yes,No,0
+SEG-0019,Carbon Steel,Produced Water,4,5.68,5.1,FBE,Marshland,Adequate,771.0,5,6.4,6.55,0.01,0.0,0,6.7,Yes,Yes,0
+SEG-0020,Carbon Steel,Natural Gas,6,6.26,14.0,Polyethylene Tape,Loam,Marginal,189.0,7,9.5,8.33,0.054,12.3,0,4.0,No,Yes,0
+SEG-0021,CRA-Clad,Natural Gas,10,3.08,4.7,None,Sandy,Adequate,1027.0,5,11.1,10.91,0.016,1.7,0,3.9,No,No,0
+SEG-0022,HDPE,Crude Oil,24,9.34,16.5,Asphalt Mastic,Clay,Adequate,1173.0,5,6.4,6.39,0.01,0.1,0,4.3,No,No,1
+SEG-0023,Carbon Steel,Produced Water,16,5.51,18.7,None,Marshland,Adequate,1006.0,3,12.7,12.44,0.044,2.1,0,7.5,Yes,No,0
+SEG-0024,HDPE,Crude Oil,4,15.78,4.5,None,Rocky,Marginal,1288.0,4,6.4,6.35,0.01,0.8,0,1.8,No,No,0
+SEG-0025,Carbon Steel,Crude Oil,8,3.5,6.8,Coal Tar Enamel,Clay,Inadequate,889.0,8,9.5,9.31,0.09,2.0,0,6.7,No,No,0
+SEG-0026,Carbon Steel,Crude Oil,24,6.14,10.9,Asphalt Mastic,Sandy,Adequate,870.0,3,7.9,7.43,0.046,6.0,0,4.5,No,No,0
+SEG-0027,HDPE,Crude Oil,10,2.95,4.3,FBE,Marshland,Marginal,1064.0,8,9.5,9.84,0.027,0.0,0,3.4,No,No,0
+SEG-0028,HDPE,Natural Gas,10,2.8,23.1,None,Rocky,Adequate,1000.0,15,9.5,9.0,0.013,5.3,0,7.4,No,No,0
+SEG-0029,Carbon Steel,Crude Oil,4,5.73,9.9,Polyethylene Tape,Marshland,Adequate,1031.0,6,9.5,9.49,0.018,0.1,0,7.1,No,No,0
+SEG-0030,Carbon Steel,Crude Oil,16,13.74,1.2,FBE,Sandy,Marginal,1100.0,8,11.1,10.82,0.016,2.5,0,2.1,Yes,No,0
+SEG-0031,CRA-Clad,Natural Gas,12,6.97,11.6,FBE,Clay,Marginal,1277.0,7,6.4,6.19,0.01,3.3,1,5.2,No,No,0
+SEG-0032,Carbon Steel,Produced Water,8,2.36,3.5,FBE,Clay,Marginal,1207.0,7,12.7,12.76,0.031,0.0,0,7.2,No,No,0
+SEG-0033,HDPE,Crude Oil,12,36.82,15.0,None,Sandy,Adequate,1015.0,3,12.7,12.47,0.01,1.8,1,3.6,Yes,No,0
+SEG-0034,HDPE,Crude Oil,12,3.34,34.2,FBE,Clay,Adequate,660.0,6,9.5,9.1,0.01,4.2,0,3.9,No,No,0
+SEG-0035,Carbon Steel,Natural Gas,6,11.86,19.1,Asphalt Mastic,Rocky,Adequate,1148.0,9,7.9,8.58,0.011,0.0,0,6.0,No,No,0
+SEG-0036,Carbon Steel,Crude Oil,24,2.95,10.2,FBE,Loam,Marginal,869.0,10,9.5,9.48,0.044,0.3,0,4.4,No,No,0
+SEG-0037,CRA-Clad,NGL,10,13.25,16.6,None,Clay,Marginal,909.0,10,6.4,6.35,0.01,0.7,0,1.3,Yes,No,1
+SEG-0038,Carbon Steel,Crude Oil,10,9.53,18.5,Polyethylene Tape,Marshland,Marginal,1042.0,6,9.5,8.03,0.061,15.5,0,4.1,No,No,0
+SEG-0039,Carbon Steel,Crude Oil,6,8.28,7.2,FBE,Loam,Marginal,767.0,6,7.9,8.16,0.034,0.0,0,7.6,No,No,0
+SEG-0040,Carbon Steel,NGL,4,25.99,22.9,None,Rocky,Marginal,408.0,3,11.1,9.81,0.053,11.6,0,7.5,Yes,No,0
+SEG-0041,Carbon Steel,Natural Gas,4,1.75,11.8,Coal Tar Enamel,Clay,Adequate,1092.0,8,7.9,7.55,0.027,4.4,0,4.7,No,No,0
+SEG-0042,Carbon Steel,Produced Water,4,9.97,13.3,Coal Tar Enamel,Sandy,Adequate,918.0,3,12.7,12.72,0.01,0.0,0,6.8,No,Yes,0
+SEG-0043,Carbon Steel,Crude Oil,6,5.49,3.6,Coal Tar Enamel,Loam,Marginal,710.0,6,9.5,9.44,0.046,0.6,0,7.3,No,No,1
+SEG-0044,CRA-Clad,Crude Oil,24,10.16,16.5,Polyethylene Tape,Clay,Adequate,968.0,2,9.5,9.36,0.01,1.4,2,4.3,Yes,No,0
+SEG-0045,Carbon Steel,Crude Oil,10,10.66,31.4,Polyethylene Tape,Sandy,Adequate,1195.0,9,9.5,9.68,0.01,0.0,1,5.3,No,No,0
+SEG-0046,CRA-Clad,Crude Oil,6,18.01,16.4,None,Clay,Inadequate,829.0,7,7.9,7.58,0.01,4.0,1,7.7,No,Yes,0
+SEG-0047,Carbon Steel,Crude Oil,8,6.47,9.5,FBE,Rocky,Adequate,1342.0,6,9.5,9.18,0.051,3.3,0,5.2,No,No,0
+SEG-0048,Carbon Steel,Crude Oil,24,2.02,12.5,Asphalt Mastic,Loam,Adequate,467.0,4,7.9,6.99,0.026,11.6,0,3.3,No,No,0
+SEG-0049,Carbon Steel,Crude Oil,8,24.2,29.0,Asphalt Mastic,Rocky,Marginal,1157.0,5,11.1,9.24,0.06,16.7,1,7.2,No,No,0
+SEG-0050,CRA-Clad,Produced Water,24,7.81,12.5,Coal Tar Enamel,Clay,Adequate,587.0,16,9.5,9.67,0.01,0.0,0,6.2,Yes,No,0
+SEG-0051,CRA-Clad,Crude Oil,10,8.83,11.7,Asphalt Mastic,Marshland,Adequate,1365.0,10,12.7,12.45,0.01,1.9,1,2.7,Yes,No,0
+SEG-0052,Carbon Steel,Natural Gas,24,6.3,10.3,None,Marshland,Marginal,993.0,8,9.5,7.7,0.154,18.9,0,6.7,No,No,0
+SEG-0053,Carbon Steel,Natural Gas,16,7.8,3.3,FBE,Clay,Adequate,627.0,8,9.5,9.44,0.01,0.7,0,1.6,No,No,0
+SEG-0054,CRA-Clad,Crude Oil,12,5.31,12.4,None,Sandy,Adequate,1037.0,6,6.4,6.69,0.01,0.0,0,6.6,Yes,Yes,0
+SEG-0055,HDPE,NGL,6,1.0,4.0,FBE,Clay,Inadequate,1169.0,3,9.5,9.82,0.01,0.0,0,7.9,No,No,0
+SEG-0056,CRA-Clad,Produced Water,24,5.5,4.5,FBE,Clay,Marginal,1139.0,6,12.7,12.56,0.01,1.1,0,2.6,No,No,0
+SEG-0057,HDPE,Natural Gas,16,11.03,11.0,Asphalt Mastic,Sandy,Marginal,827.0,5,11.1,11.0,0.032,0.9,0,4.3,No,Yes,0
+SEG-0058,CRA-Clad,Natural Gas,4,8.11,1.5,Coal Tar Enamel,Marshland,Adequate,734.0,6,6.4,6.2,0.023,3.2,0,2.9,No,No,0
+SEG-0059,CRA-Clad,Crude Oil,20,2.0,25.6,Polyethylene Tape,Clay,Marginal,1039.0,4,9.5,9.32,0.01,1.9,0,1.3,No,No,0
+SEG-0060,Carbon Steel,Natural Gas,10,7.74,5.1,Polyethylene Tape,Marshland,Adequate,319.0,5,9.5,9.44,0.01,0.6,0,3.7,No,No,0
+SEG-0061,Carbon Steel,Produced Water,12,3.23,20.7,FBE,Sandy,Adequate,565.0,4,9.5,9.68,0.01,0.0,0,3.6,No,No,0
+SEG-0062,CRA-Clad,Natural Gas,10,4.64,30.8,Coal Tar Enamel,Marshland,Marginal,689.0,6,11.1,11.11,0.01,0.0,1,1.7,No,No,0
+SEG-0063,CRA-Clad,Crude Oil,20,3.49,19.5,Asphalt Mastic,Clay,Adequate,836.0,6,7.9,7.29,0.029,7.7,0,5.5,No,No,0
+SEG-0064,Carbon Steel,Natural Gas,4,6.31,20.9,Coal Tar Enamel,Loam,Adequate,988.0,5,9.5,8.27,0.055,12.9,0,2.6,No,No,0
+SEG-0065,Carbon Steel,Produced Water,16,9.68,10.8,FBE,Loam,Adequate,926.0,6,9.5,9.48,0.01,0.2,0,5.0,No,No,0
+SEG-0066,Carbon Steel,Crude Oil,16,3.62,1.0,Polyethylene Tape,Sandy,Marginal,783.0,4,9.5,9.3,0.031,2.1,0,4.1,No,No,0
+SEG-0067,HDPE,NGL,4,11.19,1.1,Asphalt Mastic,Sandy,Adequate,993.0,6,6.4,6.78,0.01,0.0,0,4.9,No,Yes,0
+SEG-0068,Carbon Steel,NGL,20,4.64,15.4,None,Clay,Adequate,772.0,9,12.7,12.58,0.01,1.0,0,6.8,No,No,0
+SEG-0069,Carbon Steel,Crude Oil,4,10.83,21.6,Coal Tar Enamel,Marshland,Marginal,908.0,5,7.9,6.17,0.105,21.9,0,3.3,No,No,1
+SEG-0070,Carbon Steel,Natural Gas,24,2.24,1.9,FBE,Clay,Inadequate,983.0,5,9.5,8.73,0.073,8.1,1,4.3,Yes,No,0
+SEG-0071,Carbon Steel,NGL,24,4.44,28.8,Polyethylene Tape,Loam,Adequate,749.0,9,6.4,5.45,0.01,14.8,0,1.1,No,No,0
+SEG-0072,Carbon Steel,Natural Gas,12,13.19,8.1,None,Sandy,Marginal,901.0,5,12.7,12.58,0.035,1.0,0,6.6,No,No,0
+SEG-0073,Carbon Steel,Natural Gas,16,6.1,9.4,FBE,Sandy,Marginal,1114.0,6,9.5,9.03,0.026,4.9,0,7.6,No,No,0
+SEG-0074,Carbon Steel,Crude Oil,16,1.41,3.3,None,Sandy,Adequate,953.0,9,12.7,12.71,0.01,0.0,0,1.3,Yes,No,0
+SEG-0075,HDPE,Natural Gas,16,11.45,7.3,Asphalt Mastic,Rocky,Adequate,1107.0,4,11.1,11.24,0.01,0.0,1,7.3,No,No,0
+SEG-0076,Carbon Steel,Produced Water,12,6.84,5.4,Polyethylene Tape,Rocky,Marginal,955.0,7,7.9,7.93,0.032,0.0,1,4.3,Yes,Yes,0
+SEG-0077,CRA-Clad,Natural Gas,10,2.51,39.6,Coal Tar Enamel,Marshland,Adequate,994.0,10,6.4,5.88,0.01,8.2,0,3.9,No,No,0
+SEG-0078,HDPE,NGL,24,2.69,5.9,None,Sandy,Adequate,1305.0,7,6.4,6.22,0.01,2.8,0,6.3,No,No,0
+SEG-0079,Carbon Steel,Natural Gas,6,3.0,9.2,Coal Tar Enamel,Marshland,Inadequate,1017.0,5,6.4,4.52,0.129,29.4,2,7.1,Yes,No,0
+SEG-0080,CRA-Clad,Natural Gas,16,3.78,39.5,FBE,Clay,Marginal,687.0,5,9.5,8.81,0.016,7.3,1,2.2,Yes,No,0
+SEG-0081,Carbon Steel,Crude Oil,12,1.17,19.1,FBE,Clay,Marginal,1234.0,7,7.9,7.03,0.051,11.1,0,7.9,No,No,0
+SEG-0082,Carbon Steel,Crude Oil,8,13.43,2.5,Coal Tar Enamel,Clay,Marginal,877.0,8,7.9,7.17,0.084,9.3,1,5.6,No,Yes,0
+SEG-0083,Carbon Steel,Natural Gas,6,2.99,22.0,FBE,Loam,Adequate,522.0,4,12.7,12.12,0.01,4.5,0,4.7,Yes,No,0
+SEG-0084,Carbon Steel,Natural Gas,20,1.31,26.0,Polyethylene Tape,Rocky,Marginal,817.0,5,9.5,8.82,0.026,7.1,0,7.5,Yes,No,0
+SEG-0085,CRA-Clad,Natural Gas,20,5.77,15.7,FBE,Clay,Adequate,1131.0,7,7.9,7.41,0.01,6.2,0,2.7,No,No,0
+SEG-0086,CRA-Clad,Natural Gas,8,4.91,15.0,Asphalt Mastic,Loam,Marginal,866.0,6,6.4,6.28,0.018,1.8,0,7.5,No,No,0
+SEG-0087,CRA-Clad,Crude Oil,10,12.89,15.9,None,Marshland,Adequate,845.0,5,12.7,12.44,0.01,2.0,0,6.6,No,No,0
+SEG-0088,Carbon Steel,Natural Gas,6,6.1,34.3,FBE,Marshland,Marginal,891.0,7,9.5,8.51,0.018,10.4,0,7.0,No,No,0
+SEG-0089,HDPE,Crude Oil,12,8.39,5.7,Coal Tar Enamel,Loam,Adequate,712.0,7,11.1,10.72,0.01,3.4,0,6.9,No,No,0
+SEG-0090,HDPE,Crude Oil,24,19.9,7.3,FBE,Clay,Marginal,934.0,5,6.4,6.65,0.024,0.0,0,3.7,No,No,0
+SEG-0091,CRA-Clad,Crude Oil,4,9.93,27.9,None,Loam,Adequate,900.0,6,11.1,10.98,0.01,1.1,0,7.9,No,Yes,0
+SEG-0092,CRA-Clad,Natural Gas,24,19.5,25.9,FBE,Loam,Inadequate,1323.0,3,11.1,10.66,0.01,3.9,1,3.0,No,No,0
+SEG-0093,HDPE,Natural Gas,16,12.97,2.1,Polyethylene Tape,Marshland,Marginal,1165.0,8,12.7,12.13,0.015,4.5,0,5.3,No,Yes,0
+SEG-0094,Carbon Steel,Natural Gas,4,9.64,22.6,Coal Tar Enamel,Rocky,Marginal,861.0,8,9.5,9.13,0.012,3.8,1,1.5,No,No,0
+SEG-0095,CRA-Clad,Produced Water,12,10.11,9.1,FBE,Rocky,Adequate,672.0,8,12.7,12.61,0.01,0.7,0,2.5,No,Yes,0
+SEG-0096,Carbon Steel,Crude Oil,8,5.6,12.8,Coal Tar Enamel,Clay,Marginal,865.0,3,12.7,11.83,0.064,6.8,0,7.0,No,No,0
+SEG-0097,Carbon Steel,Crude Oil,16,6.75,3.4,FBE,Loam,Adequate,1019.0,9,6.4,6.29,0.01,1.6,0,4.0,No,No,0
+SEG-0098,HDPE,Natural Gas,12,7.35,5.6,None,Loam,Marginal,1043.0,4,7.9,7.66,0.01,3.0,1,3.7,No,No,0
+SEG-0099,Carbon Steel,Crude Oil,20,3.42,21.7,None,Clay,Adequate,907.0,2,12.7,12.06,0.034,5.0,0,1.1,Yes,No,0
+SEG-0100,Carbon Steel,Crude Oil,4,9.1,13.1,Asphalt Mastic,Loam,Marginal,1000.0,4,6.4,5.72,0.05,10.6,1,2.0,No,No,0
+SEG-0101,Carbon Steel,NGL,16,8.69,37.6,Coal Tar Enamel,Sandy,Inadequate,676.0,3,6.4,3.22,0.085,49.6,0,3.5,Yes,No,1
+SEG-0102,Carbon Steel,Natural Gas,16,8.92,22.0,FBE,Sandy,Marginal,709.0,8,7.9,7.25,0.022,8.2,0,5.6,No,Yes,0
+SEG-0103,Carbon Steel,NGL,16,11.67,10.7,Asphalt Mastic,Loam,Adequate,1207.0,3,9.5,9.48,0.013,0.2,0,3.5,No,No,0
+SEG-0104,Carbon Steel,Crude Oil,24,1.47,22.1,Polyethylene Tape,Marshland,Adequate,958.0,4,12.7,11.61,0.026,8.6,0,6.8,No,No,0
+SEG-0105,Carbon Steel,Crude Oil,24,2.17,37.8,None,Rocky,Adequate,1147.0,3,11.1,9.71,0.03,12.5,1,2.2,No,No,0
+SEG-0106,Carbon Steel,Natural Gas,24,5.51,10.4,None,Marshland,Adequate,631.0,4,9.5,9.27,0.025,2.4,2,4.2,No,Yes,0
+SEG-0107,Carbon Steel,Natural Gas,4,9.49,19.8,FBE,Sandy,Adequate,899.0,6,9.5,9.36,0.01,1.5,0,7.4,No,Yes,0
+SEG-0108,Carbon Steel,Crude Oil,10,9.64,4.6,FBE,Marshland,Adequate,976.0,6,7.9,7.3,0.02,7.6,0,5.2,Yes,No,0
+SEG-0109,Carbon Steel,Crude Oil,20,3.08,9.7,Coal Tar Enamel,Marshland,Marginal,1111.0,5,9.5,8.77,0.057,7.7,2,1.7,No,Yes,0
+SEG-0110,Carbon Steel,Natural Gas,16,14.35,4.7,FBE,Sandy,Adequate,1116.0,9,9.5,9.62,0.01,0.0,0,3.4,No,No,0
+SEG-0111,CRA-Clad,Produced Water,6,6.62,14.1,Coal Tar Enamel,Marshland,Inadequate,1272.0,12,9.5,9.31,0.01,2.0,0,5.4,No,No,0
+SEG-0112,CRA-Clad,Crude Oil,10,0.94,3.9,Polyethylene Tape,Marshland,Marginal,882.0,8,9.5,9.5,0.01,0.0,0,6.7,No,Yes,0
+SEG-0113,Carbon Steel,Natural Gas,6,2.83,2.2,None,Sandy,Marginal,867.0,4,9.5,9.47,0.027,0.4,0,3.8,Yes,No,0
+SEG-0114,Carbon Steel,Crude Oil,6,5.12,18.7,FBE,Sandy,Adequate,615.0,6,11.1,10.52,0.036,5.2,0,1.1,No,No,0
+SEG-0115,Carbon Steel,Crude Oil,20,7.33,18.0,None,Rocky,Adequate,935.0,5,9.5,8.76,0.027,7.7,0,5.8,No,Yes,0
+SEG-0116,CRA-Clad,Crude Oil,20,4.72,13.9,Polyethylene Tape,Loam,Adequate,767.0,6,11.1,11.22,0.01,0.0,1,2.9,Yes,No,0
+SEG-0117,HDPE,Crude Oil,10,7.11,1.3,Coal Tar Enamel,Rocky,Adequate,777.0,4,12.7,12.67,0.022,0.3,0,3.9,No,No,0
+SEG-0118,CRA-Clad,NGL,8,5.73,2.9,None,Marshland,Marginal,1399.0,6,12.7,12.94,0.01,0.0,0,3.0,Yes,No,0
+SEG-0119,Carbon Steel,Crude Oil,6,6.61,16.6,None,Marshland,Adequate,1154.0,8,11.1,9.77,0.084,12.0,0,4.0,Yes,No,0
+SEG-0120,CRA-Clad,Crude Oil,16,2.08,12.8,FBE,Loam,Adequate,890.0,7,6.4,6.17,0.01,3.6,0,5.4,No,No,0
+SEG-0121,Carbon Steel,NGL,20,16.92,22.3,Polyethylene Tape,Marshland,Marginal,1199.0,3,6.4,4.56,0.082,28.7,0,2.2,No,No,1
+SEG-0122,CRA-Clad,Natural Gas,24,4.16,17.0,None,Sandy,Adequate,957.0,5,12.7,12.29,0.01,3.2,0,5.4,No,No,0
+SEG-0123,CRA-Clad,Natural Gas,6,9.14,18.1,Polyethylene Tape,Clay,Adequate,879.0,7,6.4,6.33,0.01,1.1,0,2.4,Yes,No,0
+SEG-0124,Carbon Steel,Crude Oil,4,4.26,40.2,Polyethylene Tape,Rocky,Marginal,973.0,7,12.7,12.28,0.01,3.3,0,1.1,Yes,Yes,0
+SEG-0125,Carbon Steel,Crude Oil,24,3.64,41.1,Polyethylene Tape,Loam,Marginal,526.0,6,9.5,9.27,0.01,2.4,0,4.7,Yes,Yes,0
+SEG-0126,Carbon Steel,Crude Oil,4,2.58,8.5,FBE,Sandy,Marginal,1195.0,7,11.1,10.6,0.014,4.5,0,2.4,No,No,0
+SEG-0127,HDPE,Natural Gas,6,5.4,12.1,None,Loam,Inadequate,837.0,7,7.9,7.82,0.018,1.0,3,2.5,No,No,0
+SEG-0128,Carbon Steel,Crude Oil,8,4.32,18.0,FBE,Loam,Marginal,774.0,6,7.9,7.52,0.031,4.8,0,7.9,No,No,0
+SEG-0129,Carbon Steel,Natural Gas,10,5.76,7.7,Asphalt Mastic,Rocky,Inadequate,575.0,5,11.1,10.44,0.085,5.9,1,7.1,No,No,1
+SEG-0130,Carbon Steel,Natural Gas,4,11.4,1.9,Coal Tar Enamel,Rocky,Adequate,975.0,8,12.7,12.33,0.023,2.9,0,5.6,No,No,0
+SEG-0131,HDPE,Crude Oil,4,13.54,9.2,Coal Tar Enamel,Clay,Marginal,726.0,6,12.7,12.59,0.01,0.8,0,4.6,Yes,Yes,0
+SEG-0132,Carbon Steel,Natural Gas,16,3.5,55.0,FBE,Sandy,Marginal,666.0,5,11.1,9.87,0.019,11.1,0,1.5,No,No,0
+SEG-0133,Carbon Steel,Crude Oil,16,2.24,7.7,None,Sandy,Marginal,349.0,11,7.9,7.07,0.06,10.5,0,7.1,Yes,No,0
+SEG-0134,CRA-Clad,Crude Oil,16,3.51,15.8,Coal Tar Enamel,Marshland,Inadequate,786.0,8,12.7,12.21,0.014,3.8,1,3.6,No,No,0
+SEG-0135,Carbon Steel,Crude Oil,4,6.04,4.6,Coal Tar Enamel,Sandy,Inadequate,1462.0,12,6.4,6.43,0.037,0.0,0,1.5,No,Yes,0
+SEG-0136,HDPE,NGL,8,14.06,15.0,Polyethylene Tape,Rocky,Marginal,798.0,8,12.7,12.63,0.01,0.6,0,5.8,Yes,No,0
+SEG-0137,Carbon Steel,Crude Oil,4,8.08,5.0,Asphalt Mastic,Marshland,Adequate,926.0,14,9.5,9.25,0.029,2.7,0,5.4,No,Yes,0
+SEG-0138,Carbon Steel,NGL,12,9.78,10.1,Coal Tar Enamel,Rocky,Adequate,879.0,8,12.7,12.79,0.022,0.0,1,5.2,No,Yes,0
+SEG-0139,CRA-Clad,Natural Gas,6,1.83,36.9,FBE,Clay,Marginal,1121.0,2,6.4,5.9,0.01,7.8,0,1.3,No,No,0
+SEG-0140,Carbon Steel,Natural Gas,10,9.42,4.8,Asphalt Mastic,Sandy,Marginal,1093.0,3,11.1,10.94,0.026,1.4,1,2.6,Yes,No,0
+SEG-0141,Carbon Steel,Crude Oil,12,11.26,21.1,None,Rocky,Inadequate,1063.0,8,9.5,6.02,0.143,36.6,3,4.3,No,No,1
+SEG-0142,Carbon Steel,Crude Oil,6,6.25,13.4,Coal Tar Enamel,Loam,Adequate,851.0,4,12.7,12.3,0.01,3.2,1,6.6,No,No,0
+SEG-0143,Carbon Steel,Crude Oil,20,6.37,1.0,FBE,Sandy,Adequate,1213.0,1,12.7,13.17,0.01,0.0,2,5.2,Yes,No,0
+SEG-0144,Carbon Steel,Crude Oil,24,4.96,12.5,Polyethylene Tape,Marshland,Adequate,447.0,5,12.7,12.5,0.018,1.6,0,1.3,No,No,0
+SEG-0145,HDPE,Crude Oil,20,6.57,50.6,Coal Tar Enamel,Clay,Marginal,843.0,1,11.1,10.93,0.01,1.5,2,4.0,No,No,0
+SEG-0146,Carbon Steel,Natural Gas,6,21.24,12.6,None,Marshland,Adequate,649.0,8,7.9,6.7,0.055,15.2,0,3.5,No,No,0
+SEG-0147,HDPE,NGL,24,6.73,15.5,Polyethylene Tape,Clay,Adequate,1197.0,4,12.7,12.28,0.01,3.3,0,4.2,No,No,0
+SEG-0148,HDPE,Natural Gas,6,8.96,3.7,Coal Tar Enamel,Marshland,Adequate,871.0,7,9.5,9.78,0.01,0.0,1,2.3,No,No,0
+SEG-0149,CRA-Clad,Crude Oil,20,1.46,9.3,Asphalt Mastic,Clay,Adequate,774.0,7,7.9,7.66,0.01,3.0,0,5.6,No,Yes,0
+SEG-0150,HDPE,Natural Gas,8,14.0,19.6,Coal Tar Enamel,Clay,Marginal,1057.0,9,9.5,8.79,0.01,7.4,0,1.1,No,No,0
+SEG-0151,CRA-Clad,Crude Oil,24,7.36,18.1,Polyethylene Tape,Loam,Inadequate,709.0,9,7.9,7.3,0.01,7.6,1,7.6,No,No,0
+SEG-0152,HDPE,Natural Gas,20,9.76,6.5,None,Marshland,Adequate,1049.0,3,7.9,7.8,0.01,1.2,1,5.2,No,No,0
+SEG-0153,HDPE,Crude Oil,4,10.46,11.6,FBE,Marshland,Adequate,1410.0,4,9.5,9.15,0.024,3.6,1,1.6,No,No,0
+SEG-0154,Carbon Steel,Natural Gas,24,7.66,20.6,FBE,Rocky,Inadequate,960.0,4,9.5,8.79,0.029,7.5,0,4.6,No,No,0
+SEG-0155,Carbon Steel,Crude Oil,8,6.04,14.9,Asphalt Mastic,Sandy,Marginal,1076.0,6,7.9,7.31,0.079,7.5,0,4.5,No,No,0
+SEG-0156,HDPE,Natural Gas,4,22.41,10.5,Asphalt Mastic,Rocky,Adequate,786.0,9,6.4,6.38,0.01,0.3,1,4.1,No,Yes,0
+SEG-0157,HDPE,Produced Water,10,2.88,4.3,None,Clay,Marginal,1235.0,8,6.4,6.25,0.01,2.4,0,4.7,Yes,No,0
+SEG-0158,Carbon Steel,Natural Gas,10,3.58,27.5,FBE,Marshland,Adequate,811.0,10,11.1,10.31,0.05,7.1,0,1.4,Yes,Yes,0
+SEG-0159,CRA-Clad,Produced Water,12,4.08,7.6,Asphalt Mastic,Clay,Adequate,202.0,3,7.9,7.93,0.01,0.0,0,4.4,No,Yes,0
+SEG-0160,Carbon Steel,Crude Oil,4,16.81,6.2,None,Rocky,Marginal,1390.0,5,12.7,12.14,0.053,4.4,0,4.1,No,No,0
+SEG-0161,HDPE,Natural Gas,20,6.16,4.3,Polyethylene Tape,Clay,Adequate,774.0,8,6.4,6.23,0.01,2.6,0,6.3,No,No,0
+SEG-0162,Carbon Steel,Natural Gas,12,6.43,21.1,Polyethylene Tape,Marshland,Adequate,841.0,12,9.5,8.69,0.017,8.6,0,6.4,No,No,0
+SEG-0163,CRA-Clad,Crude Oil,8,8.42,10.8,None,Rocky,Inadequate,1047.0,4,11.1,10.7,0.017,3.6,2,2.5,No,No,1
+SEG-0164,HDPE,Natural Gas,4,6.84,20.7,FBE,Rocky,Adequate,785.0,4,11.1,10.48,0.024,5.6,1,6.7,No,No,0
+SEG-0165,HDPE,Crude Oil,12,5.87,23.1,FBE,Loam,Adequate,902.0,4,9.5,8.89,0.037,6.4,0,3.3,No,No,0
+SEG-0166,CRA-Clad,Natural Gas,6,4.18,24.7,Polyethylene Tape,Marshland,Marginal,961.0,3,6.4,6.55,0.01,0.0,2,7.7,No,No,0
+SEG-0167,Carbon Steel,Crude Oil,24,11.44,20.6,FBE,Marshland,Marginal,505.0,7,6.4,6.59,0.01,0.0,1,4.5,No,No,0
+SEG-0168,CRA-Clad,Produced Water,16,5.43,29.8,Coal Tar Enamel,Rocky,Adequate,1165.0,5,7.9,7.63,0.02,3.5,0,3.5,No,No,0
+SEG-0169,HDPE,Produced Water,16,2.43,6.5,None,Rocky,Adequate,464.0,7,11.1,11.68,0.01,0.0,0,6.9,No,No,0
+SEG-0170,Carbon Steel,Crude Oil,16,1.1,1.0,Coal Tar Enamel,Sandy,Adequate,642.0,4,6.4,6.81,0.028,0.0,2,6.3,No,No,1
+SEG-0171,Carbon Steel,NGL,16,5.11,3.6,Asphalt Mastic,Loam,Marginal,1044.0,5,12.7,12.43,0.064,2.1,1,1.9,No,No,0
+SEG-0172,Carbon Steel,Natural Gas,24,2.38,4.4,Asphalt Mastic,Marshland,Inadequate,1260.0,9,7.9,7.4,0.159,6.3,1,6.1,No,No,0
+SEG-0173,Carbon Steel,Crude Oil,4,1.49,28.2,Polyethylene Tape,Marshland,Inadequate,747.0,9,6.4,2.24,0.134,65.0,2,1.5,No,Yes,1
+SEG-0174,Carbon Steel,Produced Water,6,9.71,25.0,Polyethylene Tape,Marshland,Adequate,771.0,8,11.1,10.53,0.019,5.1,0,3.7,No,No,0
+SEG-0175,Carbon Steel,Crude Oil,16,3.06,23.5,FBE,Rocky,Adequate,1072.0,2,6.4,5.55,0.032,13.2,1,1.4,No,No,0
+SEG-0176,Carbon Steel,Natural Gas,20,4.18,4.3,Coal Tar Enamel,Clay,Inadequate,885.0,7,12.7,12.13,0.12,4.5,1,7.3,Yes,No,0
+SEG-0177,Carbon Steel,Natural Gas,6,2.21,15.3,Coal Tar Enamel,Sandy,Adequate,1559.0,10,12.7,12.15,0.01,4.3,0,7.0,No,Yes,0
+SEG-0178,HDPE,Crude Oil,16,20.54,11.4,None,Rocky,Adequate,602.0,5,6.4,6.12,0.051,4.3,0,5.8,No,No,0
+SEG-0179,Carbon Steel,Crude Oil,8,4.65,6.6,None,Sandy,Adequate,1070.0,7,9.5,9.25,0.01,2.6,0,3.6,No,Yes,0
+SEG-0180,CRA-Clad,Crude Oil,8,6.2,12.1,FBE,Clay,Marginal,1005.0,7,6.4,6.62,0.01,0.0,0,5.2,No,No,0
+SEG-0181,Carbon Steel,Crude Oil,6,2.64,2.7,FBE,Rocky,Adequate,969.0,12,6.4,6.12,0.01,4.4,2,7.3,No,No,0
+SEG-0182,Carbon Steel,Crude Oil,20,5.17,23.9,Polyethylene Tape,Marshland,Adequate,484.0,8,12.7,11.9,0.045,6.3,1,5.2,No,No,0
+SEG-0183,HDPE,Crude Oil,8,7.73,4.5,Asphalt Mastic,Sandy,Marginal,755.0,7,11.1,10.43,0.01,6.1,1,4.8,No,Yes,0
+SEG-0184,Carbon Steel,Natural Gas,20,8.72,18.2,Coal Tar Enamel,Sandy,Inadequate,976.0,4,12.7,11.75,0.053,7.5,1,5.9,No,No,0
+SEG-0185,Carbon Steel,Natural Gas,4,6.46,1.0,FBE,Marshland,Marginal,1147.0,1,11.1,10.65,0.035,4.1,1,3.6,No,No,0
+SEG-0186,Carbon Steel,Crude Oil,4,6.47,23.6,FBE,Loam,Adequate,626.0,2,11.1,11.12,0.01,0.0,1,1.3,No,No,0
+SEG-0187,Carbon Steel,Crude Oil,24,2.4,3.8,Asphalt Mastic,Clay,Marginal,1220.0,3,9.5,9.28,0.05,2.3,0,3.8,Yes,No,0
+SEG-0188,Carbon Steel,Crude Oil,8,9.21,42.9,Polyethylene Tape,Rocky,Marginal,999.0,10,6.4,5.86,0.01,8.4,0,3.2,No,No,1
+SEG-0189,CRA-Clad,NGL,6,6.82,19.6,Polyethylene Tape,Clay,Marginal,928.0,2,11.1,10.47,0.01,5.7,0,7.2,No,No,0
+SEG-0190,CRA-Clad,Produced Water,16,10.79,16.9,Polyethylene Tape,Sandy,Inadequate,1098.0,11,9.5,8.76,0.01,7.8,1,5.2,No,No,0
+SEG-0191,Carbon Steel,Natural Gas,8,4.49,15.8,None,Rocky,Adequate,1443.0,8,11.1,10.34,0.037,6.8,0,6.3,No,Yes,0
+SEG-0192,CRA-Clad,Produced Water,16,6.76,15.1,Coal Tar Enamel,Sandy,Adequate,1095.0,2,11.1,11.36,0.023,0.0,0,4.8,No,No,0
+SEG-0193,Carbon Steel,Natural Gas,24,9.76,5.9,Asphalt Mastic,Rocky,Adequate,1064.0,8,11.1,11.01,0.011,0.8,3,5.7,Yes,No,0
+SEG-0194,HDPE,Produced Water,8,6.09,2.0,Coal Tar Enamel,Marshland,Adequate,1247.0,8,6.4,6.82,0.01,0.0,0,7.8,No,No,0
+SEG-0195,HDPE,Crude Oil,24,27.66,15.1,None,Clay,Adequate,738.0,6,11.1,11.27,0.01,0.0,0,2.0,No,No,0
+SEG-0196,Carbon Steel,Crude Oil,20,12.54,12.1,None,Clay,Marginal,713.0,8,6.4,5.07,0.117,20.9,0,4.0,No,No,0
+SEG-0197,Carbon Steel,Crude Oil,6,0.97,6.2,Polyethylene Tape,Sandy,Marginal,810.0,8,7.9,7.65,0.054,3.2,0,4.9,No,Yes,0
+SEG-0198,HDPE,NGL,10,11.04,17.1,Polyethylene Tape,Loam,Marginal,954.0,6,12.7,12.81,0.025,0.0,1,1.2,No,Yes,0
+SEG-0199,CRA-Clad,NGL,8,2.69,11.3,None,Loam,Adequate,1245.0,6,7.9,7.31,0.033,7.5,0,7.0,No,Yes,0
+SEG-0200,Carbon Steel,Natural Gas,20,7.07,15.8,Coal Tar Enamel,Marshland,Adequate,990.0,7,11.1,9.58,0.062,13.7,1,2.4,No,No,0
+SEG-0201,HDPE,Natural Gas,24,2.36,11.0,Polyethylene Tape,Loam,Marginal,870.0,4,7.9,7.53,0.014,4.6,0,3.9,No,No,0
+SEG-0202,HDPE,Produced Water,4,5.32,8.1,Coal Tar Enamel,Loam,Adequate,412.0,4,11.1,11.15,0.01,0.0,0,6.9,Yes,No,0
+SEG-0203,Carbon Steel,Crude Oil,24,9.96,4.5,Polyethylene Tape,Loam,Adequate,1345.0,8,11.1,11.43,0.029,0.0,0,5.4,Yes,No,0
+SEG-0204,Carbon Steel,Crude Oil,10,3.23,13.5,None,Loam,Adequate,1101.0,3,9.5,9.27,0.046,2.5,0,6.0,No,No,0
+SEG-0205,Carbon Steel,Natural Gas,12,7.39,15.6,None,Marshland,Marginal,913.0,9,12.7,11.13,0.12,12.3,1,5.8,No,No,0
+SEG-0206,Carbon Steel,Crude Oil,4,1.04,25.1,FBE,Sandy,Adequate,1153.0,6,12.7,11.8,0.029,7.1,0,1.7,No,No,0
+SEG-0207,HDPE,Natural Gas,8,26.37,21.6,None,Clay,Marginal,1036.0,10,9.5,9.39,0.01,1.2,0,2.5,No,No,0
+SEG-0208,HDPE,Natural Gas,10,7.51,5.9,Asphalt Mastic,Loam,Adequate,950.0,6,7.9,7.57,0.01,4.1,0,4.9,No,Yes,0
+SEG-0209,Carbon Steel,Natural Gas,24,4.04,5.2,Asphalt Mastic,Rocky,Marginal,999.0,7,6.4,5.96,0.055,6.8,0,2.5,No,No,0
+SEG-0210,Carbon Steel,Natural Gas,8,11.14,10.3,None,Loam,Marginal,1202.0,6,12.7,11.83,0.064,6.8,0,4.6,No,No,0
+SEG-0211,Carbon Steel,NGL,24,1.99,9.4,Polyethylene Tape,Marshland,Marginal,849.0,3,11.1,10.84,0.055,2.3,0,4.2,No,No,0
+SEG-0212,CRA-Clad,Produced Water,8,8.08,10.5,FBE,Marshland,Adequate,339.0,7,9.5,9.28,0.01,2.3,0,1.5,No,No,0
+SEG-0213,Carbon Steel,Crude Oil,8,10.22,17.8,Coal Tar Enamel,Loam,Marginal,813.0,6,7.9,7.05,0.071,10.7,0,4.7,No,No,0
+SEG-0214,Carbon Steel,Crude Oil,10,17.16,11.4,FBE,Loam,Inadequate,507.0,8,12.7,12.04,0.059,5.2,2,4.1,No,No,0
+SEG-0215,Carbon Steel,Produced Water,4,15.65,26.2,Asphalt Mastic,Rocky,Adequate,1003.0,6,6.4,6.07,0.019,5.2,1,8.0,No,Yes,0
+SEG-0216,CRA-Clad,Produced Water,4,4.21,26.5,FBE,Marshland,Inadequate,1067.0,6,12.7,12.79,0.01,0.0,2,7.3,Yes,No,1
+SEG-0217,Carbon Steel,Crude Oil,16,15.04,10.3,FBE,Clay,Inadequate,468.0,1,6.4,5.78,0.02,9.6,1,6.6,No,No,0
+SEG-0218,HDPE,Produced Water,16,13.44,6.6,FBE,Loam,Adequate,914.0,8,6.4,6.26,0.018,2.2,1,7.6,Yes,No,0
+SEG-0219,Carbon Steel,Natural Gas,12,6.08,16.6,FBE,Sandy,Marginal,1212.0,3,12.7,12.47,0.02,1.8,0,1.8,No,No,0
+SEG-0220,CRA-Clad,Produced Water,8,9.71,3.3,FBE,Rocky,Adequate,1063.0,2,12.7,13.28,0.01,0.0,0,2.3,Yes,No,0
