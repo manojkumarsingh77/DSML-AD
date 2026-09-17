@@ -1,0 +1,14 @@
+Business Requirement — Pipeline Integrity Risk Prioritization
+
+Requested by: VP, Pipeline Integrity & Asset Management
+Background: The company operates ~1,800 km of gathering and transmission pipeline segments of varying age, material, and coating condition. Regulatory inspection budgets can only cover ~15% of the network per year. Currently, segments are picked for inspection largely by "years since last inspection" — a simple rule that has twice missed real leak events on younger, badly-coated segments while over-inspecting old but well-protected pipe.
+
+Objective: Use the attached historical segment data (220 pipeline segments, with 5-year leak history) to help the integrity team prioritize which segments to inspect, repair, or re-coat next, instead of relying on age alone.
+
+Scope: Onshore gathering/transmission segments only. Excludes subsea and station piping.
+
+Success Criteria: A method that (a) demonstrably outperforms "age-only" prioritization at flagging the segments that actually had leak incidents, and (b) produces an output the field team can act on without needing to understand the underlying math.
+
+Constraints: Only ~6–7% of segments have a recorded leak in the last 5 years (rare-event data). No real-time sensor feed yet — this is a static, periodically-refreshed dataset (updated quarterly from inspection/GIS records).
+
+Open question for the data science team: "We're not sure yet whether we want a model that predicts leak risk directly, one that predicts remaining wall thickness/corrosion rate, or one that just groups similar segments together for triage. Bring options."
